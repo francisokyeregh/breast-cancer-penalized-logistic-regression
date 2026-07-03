@@ -8,6 +8,7 @@ This repository contains the data and R code used in the manuscript:
 
 - data/ – Breast Cancer Wisconsin Dataset
 - R/ – R scripts for preprocessing, model fitting, evaluation, and bootstrap stability selection
+- results/ – Figures
 
 ## Software
 
