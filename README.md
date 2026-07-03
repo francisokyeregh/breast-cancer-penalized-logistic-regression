@@ -11,7 +11,7 @@ This repository contains the data and R code used in the manuscript:
 
 ## Software
 
-R (version 4.4 or later)
+R (version 4.5.0)
 
 Packages
 
